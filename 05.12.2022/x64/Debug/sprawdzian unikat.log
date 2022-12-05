@@ -1,0 +1,3 @@
+﻿  sprawdzian unikat.cpp
+D:\169249\sprawdzian unikat\sprawdzian unikat.cpp(84,33): warning C4244: "argument": konwersja z "double" do "const unsigned __int64", możliwa utrata danych
+  sprawdzian unikat.vcxproj -> D:\169249\sprawdzian unikat\x64\Debug\sprawdzian unikat.exe
